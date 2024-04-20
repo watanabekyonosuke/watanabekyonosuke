@@ -1,5 +1,10 @@
-### Hi there 👋
+### cs @ usc 👋
 
+--> developing music platform with world-building (three.js, flutter) <--
+* let me know if you have experience in web apps and 3d rendering 
+* full-stack
+
+you can reach me at kyowatan@usc.edu
 <!--
 **watanabekyonosuke/watanabekyonosuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
