@@ -1,4 +1,4 @@
-### cs @ usc 👋
+### cs @ usc
 
 --> developing music platform with world-building (three.js, flutter) <--
 * let me know if you have experience in web apps and 3d rendering 
